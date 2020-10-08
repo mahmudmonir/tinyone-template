@@ -1,0 +1,203 @@
+body {
+    font-family: 'PT Sans', sans-serif;
+}
+
+/* header start*/
+header {
+    background-color: #fcdb00;
+    padding: 25px;
+}
+
+/* header end*/
+/* nav start */
+
+
+.menu ul li a {
+    font-size: 20px;
+    font-weight: 700;
+    color: black;
+    padding: 0 40px !important;
+    transition: .3s;
+}
+
+.menu ul li:last-child a {
+    padding-right: 0px !important;
+}
+
+.menu ul li a:hover {
+    color: white !important;
+}
+
+/* nav end */
+/* slider start */
+.slider {
+    background-color: #fcdb00;
+    padding-bottom: 100px;
+}
+
+.slider_content {
+    margin-top: 65px;
+}
+
+.slider_content h1 {
+    font-weight: 700;
+    font-size: 32px;
+}
+
+.slider_content h2 {
+    font-weight: 400;
+    font-size: 20px;
+    color: #313841;
+    letter-spacing: 1.5px;
+    margin: 20px 0px;
+}
+
+.slider_content p {
+    color: #555555;
+    letter-spacing: .5px;
+    margin-bottom: 35px;
+}
+
+.slider_icon {
+    font-size: 42px;
+
+}
+
+.slider_icon:hover {}
+
+.slider_icon li {
+    padding-right: 30px !important;
+}
+
+.slider_img {}
+
+.cid {
+
+    bottom: -90px;
+}
+
+.cid li {
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+
+}
+
+/* slider end */
+/* Features start */
+.Features {
+    padding-top: 80px;
+    padding-bottom: 100px;
+}
+
+.c_title {}
+
+.c_h1 {
+    font-weight: 700;
+    font-size: 32px;
+    color: #010101;
+}
+
+.c_p {
+    font-size: 20px;
+    color: #313841;
+    margin-top: 10px;
+}
+
+.m_t_60 {
+    margin-top: 60px;
+}
+
+.s_icon {
+    font-size: 50px;
+}
+
+.s_text {}
+
+.s_text h2 {
+    font-size: 22px;
+    font-weight: 400;
+    margin-top: 10px;
+    margin-bottom: 13px
+}
+
+.s_text p {
+    color: #898989;
+    letter-spacing: 1px;
+}
+
+/* Features end */
+/* contact start */
+.contact {
+    padding-top: 80px;
+    padding-bottom: 100px;
+    background-color: #010101;
+}
+
+.yellow {
+    color: yellow;
+}
+
+.ash {
+    color: #898989;
+}
+
+.f_form {
+    margin-top: 30px;
+    margin-bottom: 60px;
+}
+
+.f_email {
+    width: 100%;
+    height: 50ox;
+    font-family: 'PT Sans', sans-serif;
+    color: #898989 !important;
+    border: none;
+}
+
+.f_email:focus {
+    outline: 0;
+    box-shadow: none;
+}
+
+.f_submit {
+    width: 100%;
+    height: 40px;
+    background-color: yellow;
+    font-family: 'PT Sans', sans-serif;
+    font-weight: 700;
+    color: #010101;
+}
+
+.f_submit:focus {
+    outline: 0px;
+    box-shadow: none;
+}
+
+.f_submit:hover {
+    background-color: white;
+}
+
+/* contact end */
+/* footer start */
+footer {
+    background-color: #010101;
+    padding-bottom: 100px;
+
+
+}
+
+.f_1 {
+    color: white !important;
+}
+.f_1 address{
+    margin-bottom: 0px;
+}
+.f_1 p{
+    margin: 0px;
+}
+.f_1 a{
+    color: white !important;
+}
+
+/* footer end */
